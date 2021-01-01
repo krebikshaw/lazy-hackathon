@@ -21,3 +21,5 @@
 ## 關於
 
 此專案由 [@yakim-shu](https://github.com/yakim-shu) 負責製作，十分感謝。
+
+我的優化網站心得： https://hackmd.io/pnw3PYZMQFGom_gHg5VOgA
